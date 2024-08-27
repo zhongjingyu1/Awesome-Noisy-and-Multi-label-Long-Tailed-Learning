@@ -1,4 +1,4 @@
-# Awesome-Noisy-Long-Tailed-Learning
+# Awesome Noisy Long-Tailed Learning
 
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
