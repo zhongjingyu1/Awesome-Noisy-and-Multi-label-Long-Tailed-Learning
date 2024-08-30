@@ -13,6 +13,8 @@
 |  ----  | ----  |----  |---- |----|
 |[Distribution-Balanced Loss for Multi-label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654)|ECCV|2020|[Code](https://github.com/wutong16/DistributionBalancedLoss)|Nature|
 |[Long-tailed multi-label visual recognition by collaborative training on uniform and re-balanced samplings](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf) |CVPR|2021|[Code](https://github.com/bargul/guo2021)|Nature|
+|[PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Duarte_PLM_Partial_Label_Masking_for_Imbalanced_Multi-Label_Classification_CVPRW_2021_paper.pdf)|CVPR|2021||Nature|
+|[Towards imbalanced large scale multi-label classification with partially annotated labels](https://arxiv.org/pdf/2308.00166)|SERA|2023||Nature|
 |[Probability guided loss for long-tailed multi-label image classification](https://ojs.aaai.org/index.php/AAAI/article/download/25244/25016)  | AAAI | 2023||Nature|
 |[Advanced Augmentation and Ensemble Approaches for Classifying Long-Tailed Multi-Label Chest X-Rays](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Nguyen-Mau_Advanced_Augmentation_and_Ensemble_Approaches_for_Classifying_Long-Tailed_Multi-Label_Chest_ICCVW_2023_paper.pdf)| ICCV(Workshops) |2023||Medicine|
 |[An optimized ensemble framework for multi-label classification on long-tailed chest x-ray data](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Jeong_An_Optimized_Ensemble_Framework_for_Multi-Label_Classification_on_Long-Tailed_Chest_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023||Medicine|
