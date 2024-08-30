@@ -19,6 +19,8 @@
 |[Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays through ML-GCN Augmentation](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Seo_Enhancing_Multi-Label_Long-Tailed_Classification_on_Chest_X-Rays_Through_ML-GCN_Augmentation_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023|[Code](https://github.com/lisaseo9704/2023_ICCVW_CVAMD_NCIA500)|
 |[Robust Asymmetric Loss for Multi-Label Long-Tailed Learning](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Park_Robust_Asymmetric_Loss_for_Multi-Label_Long-Tailed_Learning_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023|[Code](https://github.com/kalelpark/RAL)|
 |[Effect of Stage Training for Long-Tailed Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Yamagishi_Effect_of_Stage_Training_for_Long-Tailed_Multi-Label_Image_Classification_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023||
+|[How Does Pruning Impact Long-Tailed Multi-label Medical Image Classifiers](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_64)|MICCAI|2023||
 |[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|
+|[Towards long-tailed, multi-label disease classification from chest X-ray: Overview of the CXR-LT challenge](https://www.sciencedirect.com/science/article/pii/S136184152400149X)|MIA|2024||
 
 
