@@ -15,4 +15,7 @@
 |[Long-tailed multi-label visual recognition by collaborative training on uniform and re-balanced samplings](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf) |CVPR|2021|[Code](https://github.com/bargul/guo2021)|
 |[Probability guided loss for long-tailed multi-label image classification](https://ojs.aaai.org/index.php/AAAI/article/download/25244/25016)  | AAAI | 2023||
 |[Advanced Augmentation and Ensemble Approaches for Classifying Long-Tailed Multi-Label Chest X-Rays](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Nguyen-Mau_Advanced_Augmentation_and_Ensemble_Approaches_for_Classifying_Long-Tailed_Multi-Label_Chest_ICCVW_2023_paper.pdf)| ICCV |2023||
+|[An optimized ensemble framework for multi-label classification on long-tailed chest x-ray data](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Jeong_An_Optimized_Ensemble_Framework_for_Multi-Label_Classification_on_Long-Tailed_Chest_ICCVW_2023_paper.pdf)|2023|ICCV||
 |[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|
+|[Robust Asymmetric Loss for Multi-Label Long-Tailed Learning](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Park_Robust_Asymmetric_Loss_for_Multi-Label_Long-Tailed_Learning_ICCVW_2023_paper.pdf)|2023|ICCV|[Code](https://github.com/kalelpark/RAL)|
+
