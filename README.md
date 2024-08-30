@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fca73752-829b-4c4d-849b-f6e9e9c1d2e0)# Awesome Noisy and Multi-Label Long-Tailed Learning
+# Awesome Noisy and Multi-Label Long-Tailed Learning
     A curated list of resources for Awesome Noisy Long-Tailed Learning
 ### Long-Tailed Partial Label Learning
 |  Title   | Venue  | Year| Code|Image|
