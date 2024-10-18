@@ -12,6 +12,7 @@
 |  Title   | Venue  | Year| Code|Image|
 |  ----  | ----  |----  |---- |----|
 |[Class-Balanced Loss Based on Effective Number of Samples](https://ieeexplore.ieee.org/document/8953804)|CVPR|2019|[Code](https://github.com/vandit15/Class-balanced-loss-pytorch)|-|
+|[Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://proceedings.neurips.cc/paper/2019/file/621461af90cadfdaf0e8d4cc25129f91-Paper.pdf)|NeurIPS|2019|[Code](https://github.com/kaidic/LDAM-DRW)|-|
 |[Decoupling Representation and Classifier for Long-tailed Recognition](https://arxiv.org/pdf/1910.09217)|ICLR|2020|[Code](https://github.com/JiahuiKChen/LT-classification)|-|
 |[Distribution-Balanced Loss for Multi-label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654)|ECCV|2020|[Code](https://github.com/wutong16/DistributionBalancedLoss)|-|
 |[Long-tailed Multi-label Visual Recognition by Collaborative Training on Uniform and Re-balanced Samplings](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf) |CVPR|2021|[Code](https://github.com/bargul/guo2021)|-|
