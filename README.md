@@ -12,8 +12,9 @@
 |  Title   | Venue  | Year| Code|Image|
 |  ----  | ----  |----  |---- |----|
 |[Class-Balanced Loss Based on Effective Number of Samples](https://ieeexplore.ieee.org/document/8953804)|CVPR|2019|[Code](https://github.com/vandit15/Class-balanced-loss-pytorch)|-|
+|[Decoupling Representation and Classifier for Long-tailed Recognition](https://arxiv.org/pdf/1910.09217)|ICLR|2020|[Code](https://github.com/JiahuiKChen/LT-classification)|-|
 |[Distribution-Balanced Loss for Multi-label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654)|ECCV|2020|[Code](https://github.com/wutong16/DistributionBalancedLoss)|-|
-|[Long-tailed multi-label visual recognition by collaborative training on uniform and re-balanced samplings](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf) |CVPR|2021|[Code](https://github.com/bargul/guo2021)|-|
+|[Long-tailed Multi-label Visual Recognition by Collaborative Training on Uniform and Re-balanced Samplings](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf) |CVPR|2021|[Code](https://github.com/bargul/guo2021)|-|
 |[PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Duarte_PLM_Partial_Label_Masking_for_Imbalanced_Multi-Label_Classification_CVPRW_2021_paper.pdf)|CVPR|2021|-|-|
 |[Towards imbalanced large scale multi-label classification with partially annotated labels](https://arxiv.org/pdf/2308.00166)|SERA|2023|-|-|
 |[Probability guided loss for long-tailed multi-label image classification](https://ojs.aaai.org/index.php/AAAI/article/download/25244/25016)|AAAI|2023|-|-|
