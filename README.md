@@ -34,4 +34,4 @@
 |  Title   | Venue  | Year| Code|Image|
 |  ----  | ----  |----  |---- |----|
 |[Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/wannature/COMIC/tree/main)|-|
-
+|[ Co-Learning Meets Stitch-Up for Noisy Multi-Label Visual Recognition](https://arxiv.org/pdf/2307.00880)|TIP|2023||-|
