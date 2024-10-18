@@ -11,6 +11,7 @@
 ### Long-Tailed Multi-Label Image Learning
 |  Title   | Venue  | Year| Code|Image|
 |  ----  | ----  |----  |---- |----|
+|[Class-Balanced Loss Based on Effective Number of Samples](https://ieeexplore.ieee.org/document/8953804)|CVPR|2019|[Code](https://github.com/vandit15/Class-balanced-loss-pytorch)|-|
 |[Distribution-Balanced Loss for Multi-label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654)|ECCV|2020|[Code](https://github.com/wutong16/DistributionBalancedLoss)|-|
 |[Long-tailed multi-label visual recognition by collaborative training on uniform and re-balanced samplings](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf) |CVPR|2021|[Code](https://github.com/bargul/guo2021)|-|
 |[PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Duarte_PLM_Partial_Label_Masking_for_Imbalanced_Multi-Label_Classification_CVPRW_2021_paper.pdf)|CVPR|2021|-|-|
