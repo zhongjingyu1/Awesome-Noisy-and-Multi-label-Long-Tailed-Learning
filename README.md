@@ -29,4 +29,8 @@
 |[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://aclanthology.org/2024.alvr-1.3.pdf)|ALVR|2023|[Code](https://github.com/richard-peng-xia/LMPT)|-|
 |[Towards long-tailed, multi-label disease classification from chest X-ray: Overview of the CXR-LT challenge](https://www.sciencedirect.com/science/article/pii/S136184152400149X)|MIA|2024|-|Medicine|
 
+### Others
+|  Title   | Venue  | Year| Code|Image|
+|  ----  | ----  |----  |---- |----|
+|[Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/wannature/COMIC/tree/main)|-|
 
