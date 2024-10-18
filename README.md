@@ -25,7 +25,6 @@
 |[Robust Asymmetric Loss for Multi-Label Long-Tailed Learning](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Park_Robust_Asymmetric_Loss_for_Multi-Label_Long-Tailed_Learning_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023|[Code](https://github.com/kalelpark/RAL)|Medicine|
 |[Effect of Stage Training for Long-Tailed Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Yamagishi_Effect_of_Stage_Training_for_Long-Tailed_Multi-Label_Image_Classification_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023|-|-|
 |[How Does Pruning Impact Long-Tailed Multi-label Medical Image Classifiers](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_64)|MICCAI|2023|-|Medicine|
-|[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|-|
 |[Adaptively Weighted Copy-Decoupling Resampling Strategy for Long-Tailed Multi-label Classification](https://ieeexplore.ieee.org/document/10332128)|ICPRAI|2023|-|-|
 |[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://aclanthology.org/2024.alvr-1.3.pdf)|ALVR|2023|[Code](https://github.com/richard-peng-xia/LMPT)|-|
 |[Towards long-tailed, multi-label disease classification from chest X-ray: Overview of the CXR-LT challenge](https://www.sciencedirect.com/science/article/pii/S136184152400149X)|MIA|2024|-|Medicine|
@@ -33,5 +32,5 @@
 ### Others
 |  Title   | Venue  | Year| Code|Image|
 |  ----  | ----  |----  |---- |----|
-|[Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/wannature/COMIC/tree/main)|-|
+|[Learning in imperfect environment: Multi-label classification with long-tailed distribution and partial labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_in_Imperfect_Environment_Multi-Label_Classification_with_Long-Tailed_Distribution_and_ICCV_2023_paper.pdf)|ICCV|2023|[Code](https://https://github.com/wannature/COMIC)|-|
 |[ Co-Learning Meets Stitch-Up for Noisy Multi-Label Visual Recognition](https://arxiv.org/pdf/2307.00880)|TIP|2023||-|
