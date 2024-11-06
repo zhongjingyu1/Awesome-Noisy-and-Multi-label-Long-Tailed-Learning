@@ -28,6 +28,7 @@
 |[Adaptively Weighted Copy-Decoupling Resampling Strategy for Long-Tailed Multi-label Classification](https://ieeexplore.ieee.org/document/10332128)|ICPRAI|2023|-|-|
 |[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://aclanthology.org/2024.alvr-1.3.pdf)|ALVR|2023|[Code](https://github.com/richard-peng-xia/LMPT)|-|
 |[Towards long-tailed, multi-label disease classification from chest X-ray: Overview of the CXR-LT challenge](https://www.sciencedirect.com/science/article/pii/S136184152400149X)|MIA|2024|-|Medicine|
+|[Distributionally Robust Loss for Long-Tailed Multi-Label Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04926.pdf)|ECCV|2024|[Code](https://github.com/Kunmonkey/DR-Loss)|-|
 
 ### Others
 |  Title   | Venue  | Year| Code|Image|
