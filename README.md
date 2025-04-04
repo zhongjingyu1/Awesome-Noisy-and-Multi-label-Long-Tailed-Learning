@@ -1,4 +1,4 @@
-# Awesome Noisy and Multi-Label Long-Tailed Learning
+# Awesome Long-Tailed Partial and Multi-Label Learning
     A curated list of resources for Awesome Noisy Long-Tailed Learning
 ### Long-Tailed Partial Label Learning
 |  Title   | Venue  | Year| Code|Image|
